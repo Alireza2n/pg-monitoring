@@ -7,9 +7,9 @@ These scripts are optimized so that it can be seamlessly used with time series s
 
 | Collection | Type | Metrics | Suggested Reading |
 | ---- | ---- | ---- | --- |
-| Activities | Connections | count , states, lock queue size | |
-| Locks | Connections, Relations | count | https://wiki.postgresql.org/wiki/Lock_Monitoring |
-| Tables | IO | cache hit percentage ||
+| [Activities](activities/) | Connections | count , states, lock queue size | |
+| [Locks](locks/) | Connections, Relations, Statements | count | [Lock Monitoring](https://wiki.postgresql.org/wiki/Lock_Monitoring) |
+| [Tables](tables/) | IO | cache hit percentage ||
 
 
 ## General Materials
