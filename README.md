@@ -3,7 +3,7 @@ A collection of useful scripts to query postgres statistics.
 These scripts are optimized so that it can be seamlessly used with time series storage and visualization software
 (e.g. [Influxdb](https://influxdata.com/) + [Grafana](http://grafana.org/)) to obtain something like
 
-![Demo](imgs/postgres_grafana_influx.png)
+![Demo](imgs/demo.png)
 
 ## Database-specific Statistics
 
